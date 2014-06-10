@@ -1,8 +1,4 @@
 ctrlp.vim
 neobundle.vim
-neosnippet-snippets
-neosnippet.vim
 unite.vim
-vim-colorschemes
-vim-fugitive
 vim-php-dictionary

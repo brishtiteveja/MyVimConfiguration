@@ -15,24 +15,24 @@ set tags=tags;/
 "------------------------------------------------------------------------------------------
 
 " Char Code(old)
-"set encoding=utf-8
-"set fileencodings=iso-2022-jp,euc-jp,sjis,utf-8
-"set fileformats=unix,dos,mac
+set encoding=utf-8
+set fileencodings=iso-2022-jp,euc-jp,sjis,utf-8
+set fileformats=unix,dos,mac
 
 "Char Code
 if has('iconv')
    let s:enc_euc = 'euc-jp'
    let s:enc_jis = 'iso-2022-jp'
-   " iconv$B$,(BeucJP-ms$B$KBP1~$7$F$$$k$+$r%A%'%C%/(B
+   " iconvがeucJP-msに対応しているかをチェック
    if iconv("\x87\x64\x87\x6a", 'cp932', 'eucjp-ms') ==# "\xad\xc5\xad\xcb"
        let s:enc_euc = 'eucjp-ms'
        let s:enc_jis = 'iso-2022-jp-3'
-   " iconv$B$,(BJISX0213$B$KBP1~$7$F$$$k$+$r%A%'%C%/(B
+   " iconvがJISX0213に対応しているかをチェック
    elseif iconv("\x87\x64\x87\x6a", 'cp932', 'euc-jisx0213') ==# "\xad\xc5\xad\xcb"
        let s:enc_euc = 'euc-jisx0213'
        let s:enc_jis = 'iso-2022-jp-3'
    endif
-   " fileencodings$B$r9=C[(B
+   " fileencodingsを構築
    if &encoding ==# 'utf-8'
        let s:fileencodings_default = &fileencodings
        let &fileencodings = s:enc_jis .','. s:enc_euc .',cp932'
@@ -52,7 +52,7 @@ if has('iconv')
            let &fileencodings = &fileencodings .','. s:enc_euc
        endif
    endif
-   " $BDj?t$r=hJ,(B
+   " 定数を処分
    unlet s:enc_euc
    unlet s:enc_jis
 endif
@@ -80,11 +80,11 @@ NeoBundleFetch 'Shougo/neobundle.vim'
 
 "My Bundles here
 NeoBundle 'Shougo/unite.vim'
-NeoBundle 'Shougo/neosnippet.vim'
-NeoBundle 'Shougo/neosnippet-snippets'
-NeoBundle 'tpope/vim-fugitive'
+"NeoBundle 'Shougo/neosnippet.vim'
+"NeoBundle 'Shougo/neosnippet-snippets'
+"NeoBundle 'tpope/vim-fugitive'
 NeoBundle 'kien/ctrlp.vim'
-NeoBundle 'flazz/vim-colorschemes'
+"NeoBundle 'flazz/vim-colorschemes'
 NeoBundle 'nishigori/vim-php-dictionary'
 
 call neobundle#end()
@@ -98,26 +98,30 @@ NeoBundleCheck
 "------------------------------------------------------------------------------------------
 
 "omnifunc
-autocmd FileType javascript set omnifunc=javascriptcomplete#CompleteJS
-autocmd FileType html set omnifunc=htmlcomplete#CompleteTags
-autocmd FileType ejs set omnifunc=htmlcomplete#CompleteTags
-autocmd FileType css set omnifunc=csscomplete#CompleteCSS
-autocmd FileType php set omnifunc=phpcomplete#CompletePHP
-autocmd FileType python set omnifunc=pythoncomplete#Complete
-autocmd FileType ruby,eruby set omnifunc=rubycomplete#Complete
+"autocmd FileType javascript set omnifunc=javascriptcomplete#CompleteJS
+"autocmd FileType html set omnifunc=htmlcomplete#CompleteTags
+"autocmd FileType ejs set omnifunc=htmlcomplete#CompleteTags
+"autocmd FileType css set omnifunc=csscomplete#CompleteCSS
+"autocmd FileType php set omnifunc=phpcomplete#CompletePHP
+"autocmd FileType python set omnifunc=pythoncomplete#Complete
+"autocmd FileType ruby,eruby set omnifunc=rubycomplete#Complete
 
-au BufRead,BufNewFile *.scala set filetype=scala
-au BufNewFile,BufRead *.go set filetype=go
+"au BufRead,BufNewFile *.scala set filetype=scala
+"au BufNewFile,BufRead *.go set filetype=go
 
 "omnifunc error support
-setlocal omnifunc=syntaxcomplete#Complete
-:map <silent> <F3> :setlocal omnifunc=syntaxcomplete#Complete<CR>
+"setlocal omnifunc=syntaxcomplete#Complete
+"":map <silent> <F3> :setlocal omnifunc=syntaxcomplete#Complete<CR>
 
 "dictionary
-autocmd FileType php set dictionary=~/.vim/dict/PHP.dict
-autocmd FileType js set dictionary=~/.vim/dict/javascript.dict
-autocmd FileType scala set dictionary=~/.vim/dict/scala.dict
-autocmd FileType java set dictionary=~/.vim/dict/java.dict
-autocmd FileType c set dictionary=~/.vim/dict/c.dict
-autocmd FileType cpp set dictionary=~/.vim/dict/cpp.dict
+"autocmd FileType php set dictionary=~/.vim/dict/PHP.dict
+"autocmd FileType js set dictionary=~/.vim/dict/javascript.dict
+"autocmd FileType scala set dictionary=~/.vim/dict/scala.dict
+"autocmd FileType java set dictionary=~/.vim/dict/java.dict
+"autocmd FileType c set dictionary=~/.vim/dict/c.dict
+"autocmd FileType cpp set dictionary=~/.vim/dict/cpp.dict
 "------------------------------------------------------------------------------------------
+
+"ctrl-p setting
+let g:ctrlp_match_window = 'max:10,results:10000' 
+
