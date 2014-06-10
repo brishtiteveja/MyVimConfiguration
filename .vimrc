@@ -6,6 +6,11 @@ set expandtab
 set tabstop=4
 set laststatus=2
 set backspace=2
+set hls
+hi CursorLineNr term=bold ctermfg=Yellow gui=bold guifg=Yellow
+
+"ctags
+set tags=tags;/
 
 " Japanese
 set encoding=utf-8
