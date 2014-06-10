@@ -123,5 +123,5 @@ NeoBundleCheck
 "------------------------------------------------------------------------------------------
 
 "ctrl-p setting
-let g:ctrlp_match_window = 'max:10,results:10000' 
+let g:ctrlp_match_window = 'max:10,results:100' 
 
