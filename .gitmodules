@@ -19,3 +19,9 @@
 [submodule "bundle/gtags"]
 	path = bundle/gtags
 	url = https://github.com/vim-scripts/gtags.vim
+[submodule "/home/abdullahkhan-zehady/.vim/bundle/neobundle.vim"]
+	path = bundle/neobundle.vim
+	url = https://github.com/Shougo/neobundle.vim
+[submodule "bundle/dict"]
+	path = bundle/dict
+	url = https://github.com/szw/vim-dict.git
