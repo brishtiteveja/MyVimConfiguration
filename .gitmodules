@@ -25,3 +25,9 @@
 [submodule "bundle/dict"]
 	path = bundle/dict
 	url = https://github.com/szw/vim-dict.git
+[submodule "bundle/phpfolding.vim"]
+	path = bundle/phpfolding.vim
+	url = git@github.com:vim-scripts/phpfolding.vim.git
+[submodule "bundle/PIV"]
+	path = bundle/PIV
+	url = git@github.com:spf13/PIV.git

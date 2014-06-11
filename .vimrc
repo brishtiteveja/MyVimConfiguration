@@ -6,6 +6,7 @@ set expandtab
 set tabstop=4
 set laststatus=2
 set backspace=2
+set ignorecase
 set hls
 hi CursorLineNr term=bold ctermfg=Yellow gui=bold guifg=Yellow
 "man pages with :Man
@@ -126,4 +127,12 @@ NeoBundleCheck
 
 "ctrl-p setting
 let g:ctrlp_match_window = 'max:10,results:100' 
+let g:ctrlp_regexp = 1
+"------------------------------------------------------------------------------------------
 
+"php-folding setting
+map <F5> <Esc>:EnableFastPHPFolds<Cr>
+map <F6> <Esc>:EnablePHPFolds<Cr>
+map <F7> <Esc>:DisablePHPFolds<Cr>
+"Disable php-folding
+let g:DisableAutoPHPFolding = 1
