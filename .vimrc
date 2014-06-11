@@ -8,6 +8,8 @@ set laststatus=2
 set backspace=2
 set hls
 hi CursorLineNr term=bold ctermfg=Yellow gui=bold guifg=Yellow
+"man pages with :Man
+runtime ftplugin/man.vim
 "------------------------------------------------------------------------------------------
 
 "ctags
