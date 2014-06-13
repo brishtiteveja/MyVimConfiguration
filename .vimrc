@@ -9,6 +9,13 @@ set backspace=2
 set ignorecase
 set hls
 hi CursorLineNr term=bold ctermfg=Yellow gui=bold guifg=Yellow
+"------------------------------------------------------------------------------------------
+
+"Cursor configuration
+hi CursorLine   cterm=NONE ctermbg=darkred ctermfg=white guibg=darkred guifg=white
+hi CursorColumn cterm=NONE ctermbg=NONE ctermfg=NONE guibg=NONE guifg=NONE
+nnoremap <Leader>c :set cursorline! cursorcolumn!<CR>
+
 "man pages with :Man
 runtime ftplugin/man.vim
 "------------------------------------------------------------------------------------------
@@ -128,6 +135,7 @@ NeoBundleCheck
 "ctrl-p setting
 let g:ctrlp_match_window = 'max:10,results:100' 
 let g:ctrlp_regexp = 1
+let g:ctrlp_max_files=0
 "------------------------------------------------------------------------------------------
 
 "php-folding setting
