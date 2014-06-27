@@ -5,10 +5,14 @@ set number
 set expandtab
 set tabstop=4
 set laststatus=2
+set shiftwidth=4
+set softtabstop=4
 set backspace=2
 set ignorecase
 set hls
 hi CursorLineNr term=bold ctermfg=Yellow gui=bold guifg=Yellow
+set list
+set listchars=tab:>-,trail:-,extends:>,precedes:<,nbsp:%
 "------------------------------------------------------------------------------------------
 
 "Cursor configuration
@@ -133,9 +137,14 @@ NeoBundleCheck
 "------------------------------------------------------------------------------------------
 
 "ctrl-p setting
-let g:ctrlp_match_window = 'max:10,results:100' 
+let g:ctrlp_match_window = 'max:10,results:10'
 let g:ctrlp_regexp = 1
 let g:ctrlp_max_files=0
+let g:ctrlp_cache_dir = $HOME.'/.vim/bundle/ctrlp.vim/cache/'
+let g:ctrlp_use_migemo = 1
+let g:ctrlp_clear_cache_on_exit = 0   " 終了時キャッシュをクリアしない"
+let g:ctrlp_mruf_max            = 500  " MRUの最大記録数"
+let g:ctrlp_open_new_file       = 1    " 新規ファイル作成時にタブで開く"
 "------------------------------------------------------------------------------------------
 
 "php-folding setting

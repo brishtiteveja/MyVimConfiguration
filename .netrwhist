@@ -1,11 +1,2 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/home/gree/xgree/land'
-let g:netrw_dirhist_2='/home/gree/xgree/land/frontend/mland/act/Fishing/Profile/Rod'
-let g:netrw_dirhist_3='/home/gree/xgree/land/frontend/mland/act/Fishing/Profile'
-let g:netrw_dirhist_4='/home/gree/xgree/land'
-let g:netrw_dirhist_5='/home/gree/xgree/land/frontend'
-let g:netrw_dirhist_6='/home/gree/xgree/land/frontend/support'
-let g:netrw_dirhist_7='/home/gree/xgree/land/frontend/support/act'
-let g:netrw_dirhist_8='/home/gree/xgree/land/frontend/support/act/Fishing'
-let g:netrw_dirhist_9='/home/gree/xgree/land/frontend/support/act/Fishing/Item'
+let g:netrw_dirhist_cnt =0
