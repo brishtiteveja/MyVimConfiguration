@@ -1,3 +1,4 @@
+/Users/ananda/.vimrc
 /Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Linear Algebra/homework/hw5/orthogonal_factorization_2.py
 /Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Linear Algebra/homework/hw5/tex/hw5.tex
 /Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Linear Algebra/homework/hw5/solve_with_forward_backward_sweep.py
@@ -171,7 +172,6 @@
 /Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS565-Programming Languages/Books/sf/test.v
 /Users/ananda/.emacs
 /Users/ananda/.emacs.d/viper
-/Users/ananda/.vimrc
 /Users/ananda/.vrapperrc
 /Users/ananda/Downloads/Isabelle2015/README
 /Users/ananda/.viper

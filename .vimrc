@@ -1,4 +1,5 @@
 " common settings
+filetype plugin on
 syntax on
 set autoindent
 set number
@@ -145,6 +146,7 @@ let g:ctrlp_use_migemo = 1
 let g:ctrlp_clear_cache_on_exit = 0   " 終了時キャッシュをクリアしない"
 let g:ctrlp_mruf_max            = 500  " MRUの最大記録数"
 let g:ctrlp_open_new_file       = 1    " 新規ファイル作成時にタブで開く"
+let g:CoqIDEDefaultKeyMap = 1
 "------------------------------------------------------------------------------------------
 
 "php-folding setting
@@ -153,3 +155,10 @@ map <F6> <Esc>:EnablePHPFolds<Cr>
 map <F7> <Esc>:DisablePHPFolds<Cr>
 "Disable php-folding
 let g:DisableAutoPHPFolding = 1
+
+
+" for NeoBundle
+set rtp+=$HOME/.vim/bundle/jsx.vim
+NeoBundle 'git://github.com/jsx/jsx.vim.git'
+NeoBundle 'tounaishouta/coq.vim'
+set runtimepath+=/Users/ananda/.vim/bundle/coq.vim/ftplugin/coq.vim
