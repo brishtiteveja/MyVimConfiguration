@@ -1,0 +1,500 @@
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Linear Algebra/homework/hw5/orthogonal_factorization_2.py
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Linear Algebra/homework/hw5/tex/hw5.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Linear Algebra/homework/hw5/solve_with_forward_backward_sweep.py
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/kmp_match.cpp
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/quick_sort.cpp
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/merge_sort.cpp
+/Users/ananda/Documents/Workspace/Algorithm training/Excercise/dijkstra/Dijkstra.cpp
+/Users/ananda/Documents/Workspace/Algorithm training/Excercise/dijkstra/dijkstra/djs.cpp
+/Users/ananda/Documents/Workspace/Algorithm training/Excercise/dijkstra/dijkstra/main.cpp
+/Users/ananda/Documents/Workspace/Algorithm training/Excercise/dijkstra/dijkstra/Dijkstra.cpp
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/friend.cpp
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/merge_sort
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Linear Algebra/homework/hw5/minimize_error_vec.py
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Linear Algebra/homework/hw5/orthogonal_factorization.py
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Linear Algebra/homework/hw5/.gitignore
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Linear Algebra/homework/hw5/cholesky_factorization.py
+/private/etc/hosts
+/etc/hosts
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/string_match.cpp
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/tree.cpp
+/Users/ananda/Documents/projects/tscreator/devel/src/util/ProgramInfo.java
+/Users/ananda/Documents/projects/tscreator/jars/Makefile
+/Users/ananda/Documents/projects/tscreator/devel/Makefile
+/Users/ananda/Documents/projects/tscreator/.gitignore
+/Users/ananda/Documents/projects/tscreator/devel/src/gui/crossplot/CrossplotFrame.java
+/Users/ananda/Documents/projects/tscreator/.git/MERGE_MSG
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/struct1.cpp
+/Users/ananda/Documents/Workspace/programming_language/python/Hulu_Coding_Challenge/hangman.py
+/Users/ananda/Documents/Workspace/programming_language/python/Hulu_Coding_Challenge/how_to_run.txt
+/Users/ananda/Desktop/data.txt
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/complex.cpp
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/issameclass.cpp
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/template1.cpp
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/virtual_inheritance.cpp
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/unsigned_char_int.cpp
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/virtual1.cpp
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/C++_Interview/ch12_q1.cpp
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/C++_Interview/q2.cpp
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/C++_Interview/q1.cpp
+/Users/ananda/.bash_profile
+/Users/ananda/.bashrc
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Linear Algebra/homework/hw2/tex/hw2.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Linear Algebra/homework/hw2/lu_factorization_partial_pivoting.py
+/Users/ananda/test_git/a.txt
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Algebra/homework/hw2/solve_with_forward_backward_sweep.py
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Algebra/homework/hw2/lu_factorization_partial_pivoting.py
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Algebra/homework/hw2/cholesky_factorization.py
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Algebra/homework/hw2/lu_factorization.py
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Algebra/homework/hw2/.gitignore
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Algebra/homework/lu_factorization_partial_pivoting.py
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Algebra/homework/lu_factorization.py
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/4.CS503-Operating Systems/cs503/lab1/xinu-spring2015/DESCRIPTION
+/Users/ananda/codeacademy/file2.txt
+/Users/ananda/codeacademy/unit1_lesson_1.js
+/Users/ananda/Documents/projects/React-Tutorial/react-tutorial/comments.json
+/Users/ananda/Documents/projects/React-Tutorial/react-tutorial/server.js
+/Users/ananda/Documents/projects/React-Tutorial/react-tutorial/requirements.txt
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Java2Exe/jsmooth-0.9.9-7-src/src/net/charabia/jsmoothgen/application/gui/skeleditors/TextAreaEditor.java
+/Users/ananda/codeacademy_tutorial/unit1_lesson1.rtf
+/private/var/folders/fq/by9d1k_n78nf_9t5szjmlhxc0000gn/T/TemporaryItems/Repair Result to Supplementary_File_2(Tables) 02214.xml
+/Users/ananda/Documents/Workspace/Kaggle/Competitions/2.Predicting_Red_Hat_Business_Value/script.py
+/Users/ananda/Documents/Workspace/Kaggle/Competitions/RedHat/script.py
+/Users/ananda/Documents/projects/tscreator/devel/resources/datapacks/.gitignore
+/Users/ananda/Documents/projects/tscreator/devel/resources/sqlite_database/database_tscreator.sql
+/Users/ananda/Documents/projects/tscreator/devel/src/datastore/ChronColumn.java
+/Users/ananda/Documents/projects/tscreator/devel/src/datastore/PointColumn.java
+/Users/ananda/Documents/projects/tscreator/devel/src/gui/crossplot/CrossplotSettings.java
+/Users/ananda/Desktop/acre.obs.txt
+/Users/ananda/Documents/projects/tscreator/devel/src/datastore/SequenceColumn.java
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/templates/image/show.ejs
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/templates/curves/option.ejs
+/Users/ananda/Documents/projects/TSCreator Makers/.gitignore
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/views/references_detail.js
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/views/reference_zone.js
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/read_references_data.rb
+/Users/ananda/Documents/projects/TSCreator Makers/curve_maker/templates/references/show.ejs
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/templates/curves/export_header.text.ejs
+/Users/ananda/Documents/projects/TSCreator Makers/curve_maker/templates/image/show.ejs
+/Users/ananda/Documents/projects/TSCreator Makers/block-column-maker-built.js
+/Users/ananda/Documents/Workspace/Kaggle/Competitions/1. Expedia Hotel Recommendation/data/destinations.csv
+/Users/ananda/Documents/Workspace/Kaggle/Competitions/1. Expedia Hotel Recommendation/data/test.csv
+/Users/ananda/Documents/Workspace/Kaggle/Competitions/1. Expedia Hotel Recommendation/data/sample_submission.csv
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/7.CS573-Data Mining/Homeworks/hw2/Data/q2/other_donation_data2/population1b.csv
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/7.CS573-Data Mining/Homeworks/hw2/Data/q2/other_donation_data2/population2b.csv
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/7.CS573-Data Mining/Homeworks/hw2/Data/q2/other_donation_data2/population2p.csv
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/7.CS573-Data Mining/Homeworks/hw2/Data/q2/other_donation_data2/population4b.csv
+/Users/ananda/Documents/Workspace/PurdueUniversity/Support/CS-Support
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Homeworks/hw5/data/traffic.dat
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Homeworks/hw5/data/Bank_Data_Train.csv
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Homeworks/hw5/tex/hw5.tex
+/Users/ananda/Documents/Workspace/Google Code Jam/2016/pollard_integer_factor.cpp
+/Users/ananda/Documents/projects/tscreator-old/devel/src/datastore/loader/Makefile
+/Users/ananda/Documents/projects/tscreator/devel/extlib/javacc/bin/javacc
+/Users/ananda/Documents/projects/tscreator/devel/src/datastore/loader/Makefile
+/Users/ananda/Documents/projects/tscreator/.git/COMMIT_EDITMSG
+/Users/ananda/Documents/projects/tscreator/devel/#test#
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Homeworks/hw3/data/movie_ratings.txt
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Exams/tex/CS573-Midterm.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Homeworks/hw3/tex/hw3.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Homeworks/hw3/resources/Python plotting/annotation.py
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Homeworks/hw3/data/annotation_demo2.py
+/Users/ananda/Desktop/annotation_demo2.py
+/Users/ananda/ica.npy
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Exams/tex/midterm.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Homeworks/hw1/hw1.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Homeworks/hw3/tex/hw3
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Homeworks/hw3/tex/hw1.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Homeworks/hw3/data/mystery_data.txt
+/Users/ananda/Documents/projects/tscreator/devel/src/gui/crossplot/Crossplot.java
+/Users/ananda/Documents/projects/tscreator/devel/src/gui/crossplot/Coordinate2D.java
+/Users/ananda/Documents/projects/tscreator/devel/src/gui/crossplot/CrossplotConverter.java
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Exams/data/submission_q2.csv
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Exams/data/submission.csv
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Exams/data/Submission_Example.csv
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Exams/data/Bank_Data_Train.csv
+/Users/ananda/Documents/projects/RemoteSystemsTempFiles/CONTE.RCAC.PURDUE.EDU/scratch/conte/a/azehady/usr/local/src/metafinal2/metAMOS/run_scripts/qsubmit_kulkarni.sh
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Homeworks/scribed_notes/CS573-ScribedNote-Lec14-Perceptron_SVM_LogisticRegression.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Homeworks/scribed_notes/resources/svm.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Homeworks/scribed_notes/CS573-ScribedNote-Lec14-Perceptron_SVM_LogisticRegression.log
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Homeworks/scribed_notes/CS573-ScribedNote-Lec14-Perceptron_SVM_LogisticRegression.aux
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Homeworks/scribed_notes/CS573-ScribedNote-Lec14-Perceptron_SVM_LogisticRegression
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Homeworks/scribed_notes/template_scribe.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Homeworks/template_scribe.tex
+/Users/ananda/Dropbox/TSCreator/VIP Spring 2016/VIP student team/yunchao du/lasconverter project/manifest.txt
+/Users/ananda/Dropbox/TheRising/.gitignore
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Homeworks/hw2/tex/hw2.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Homeworks/hw2/Data/q2/other_donation_data/population1pn.csv
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Homeworks/hw2/Data/q2/other_donation_data/population1b.csv
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Homeworks/hw2/tex/hw1.tex
+/usr/local/Cellar/masurca/2.3.2b/bin/quorum_create_database
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Data/assembly/config.txt
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Software/MaSuRCA-3.1.3/assembly/config.txt
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Software/MaSuRCA-3.1.3/assembly/config
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Data/Gage/Rhodobacter sphaeroides/frag.sam
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Software/MaSuRCA-3.1.3/install.sh
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Software/MaSuRCA-3.1.3/CA/README
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Software/MaSuRCA-3.1.3/global-1/install-sh
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/sharelatex/Assembly-Review-Paper-Bagchi/sections/DNA.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/sharelatex/Assembly-Review-Paper-Bagchi/sections/Intro.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/sharelatex/Assembly-Review-Paper-Bagchi/sections/Results.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Zsika/tscreator_webapp/help_run/help_run.txt
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Zsika/tscreator_webapp/clean.sh
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Zsika/tscreator_webapp/.git/MERGE_MSG
+/Users/ananda/Documents/projects/tscreator/devel/Datastore.java
+/Users/ananda/Desktop/Datastore.java
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/pdtb/pdtb-parser/README.md
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/pdtb/pdtb-parser/test2
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/pdtb/pdtb-parser/src/parser.rb
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/pdtb/pdtb-parser/src/variable.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/pdtb/PdtbBrowsing/PDTBUser/runpdtb.sh
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/pdtb/PDTBUser/runpdtb.sh
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/pdtb/data/conll16st-en-zh-dev-train_LDC2016E50/conll16st-en-01-12-16-train/raw/script.sh
+/Users/ananda/Documents/projects/tscreator/devel/src/datastore/Datastore.java
+/Users/ananda/Dropbox/TSCreator/VIP Spring 2016/TestFiles/Jason/THOUSANDS OF YEARS GB 18030 .txt
+/Users/ananda/Dropbox/TSCreator/VIP Spring 2016/TestFiles/Jason/THOUSANDS OF YEARS with 1000 work.txt
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS565-Programming Languages/Books/sf/Basics.v
+/Users/ananda/Documents/projects/tscreator/devel/src/gui/TSCreator.java
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/pdtb/PdtbRoot/00/wsj_0001.mrg
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/pdtb/RawRoot/00/wsj_0001
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/pdtb/wiki.csc.calpoly.edu/CSC-581-S11-06/browser/trunk/treebank_paper/combined/wsj_0007.mrg
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/pdtb/PDTBUser/README
+/Users/ananda/Documents/Workspace/my_github/Truth/truthcoin-cpp/doc/build-unix.md
+/Users/ananda/Documents/Workspace/my_github/Truth/truthcoin-cpp/INSTALL
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/ML Books/ISLR/stat-learning/ch2/answers
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Homeworks/Data/Arrays/evals.txt
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Homeworks/Data/Arrays/evecs.txt
+/usr/local/src/SDL-1.2.15/INSTALL
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Books/PRMLT/solutions/prml/1.1-polycurve.ipynb
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/8.CS573-Data Mining/Homeworks/hw1/Programming/marvel.py
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS565-Programming Languages/Books/sf/test.v
+/Users/ananda/.emacs
+/Users/ananda/.emacs.d/viper
+/Users/ananda/.vimrc
+/Users/ananda/.vrapperrc
+/Users/ananda/Downloads/Isabelle2015/README
+/Users/ananda/.viper
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/6.CS578-Machine Learning/Homeworks/hw4/hw4/homework.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/6.CS578-Machine Learning/Homeworks/hw1/hw1/homework.tex
+/Users/ananda/rundocker.sh
+/Users/ananda/Documents/projects/tscreator/devel/src/datastore/RangeColumn.java
+/Users/ananda/Documents/Workspace/Writing/English/Poems/She In The Coffee Shop
+/Users/ananda/Documents/projects/Bitcoin/bitcoin/doc/build-osx.md
+/Users/ananda/Documents/projects/Bitcoin/bitcoin/doc/build-unix.md
+/Users/ananda/Documents/projects/Bitcoin/bitcoin/INSTALL
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/5.CS503-Operating Systems/cs503/Xinu-Demand-Paging-master/README.md
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/5.CS503-Operating Systems/Labs/lab4 submission/xinu-spring2015/system/sendb.c
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/5.CS503-Operating Systems/Labs/lab4 submission/xinu-spring2015/system/create.c
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/5.CS503-Operating Systems/Labs/lab4 submission/xinu-spring2015/system/receive.c
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/6.CS578-Machine Learning/Homeworks/hw3/homework.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Students/Yunchandao/forum/forum.php
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Students/Yunchandao/forum/topic.php
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Students/Yunchandao/forum/forum_variables.php
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/5.CS503-Operating Systems/Labs/lab4 submission/xinu-spring2015/system/main.c
+/Users/ananda/Documents/Workspace/programming_language/java/test/test.java
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/isUniqueChars.cpp
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/isUniqueChars.c
+/Users/ananda/Documents/projects/tscreator/devel/src/datastore/loader/Loader1.jj
+/Library/Caches/Homebrew/tigervnc-1.4.0/CMakeLists.txt
+/Library/Caches/Homebrew/tigervnc-1.4.0/vncviewer/cocoa.mm
+/Library/Caches/Homebrew/tigervnc-1.4.0/BUILDING.txt
+/Library/Caches/Homebrew/tigervnc-1.4.0/common/CMakeLists.txt
+/Library/Caches/Homebrew/tigervnc-1.4.0/tests/CMakeLists.txt
+/Library/Caches/Homebrew/tigervnc-1.4.0/compilationStep.txt
+/Library/Caches/Homebrew/tigervnc-1.4.0/README.txt
+/Users/ananda/Documents/projects/TSCreator Makers/commons/js/views/timeline_view.js
+/Users/ananda/Documents/projects/timescale-creator-makers/commons/js/views/timeline_view.js
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/hello.c
+/Users/ananda/Documents/projects/TSCreator Makers/evtree_maker/evtree_maker/js/views/evtree_view.js
+/Users/ananda/Documents/projects/TSCreator Makers/evtree_maker/js/views/evtree_view.js
+/Users/ananda/Documents/projects/TSCreator Makers/commons/js/collections/markers.js
+/Users/ananda/.gitconfig
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS502-Compiler/Homeworks/hw2/homework-code-at-uga/spring2013/csci6570-compiler/Makefile
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS578-Machine Learning/Homeworks/hw2/hw2/homework.tex
+/Users/ananda/Documents/projects/timescale-creator-makers/evtree_maker/html/index.html
+/Users/ananda/Documents/projects/TSCreator Makers/README.md
+/Users/ananda/Documents/projects/TSCreator Makers/evtree_maker/js/evtree_app.js
+/Users/ananda/Documents/projects/timescale-creator-makers/README.md
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS578-Machine Learning/Project/proposal_template 2/proposal.tex
+/Users/ananda/Documents/projects/TSCreator Makers/evtree_maker/html/index.html
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS503-Operating Systems/Labs/lab2 TA version/xinu-spring2015/system/ready.c
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS503-Operating Systems/Labs/lab2 TA version/xinu-spring2015/system/create.c
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS503-Operating Systems/Labs/lab2 TA version/xinu-spring2015/system/resched.c
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS503-Operating Systems/Labs/lab2 TA version/xinu-spring2015/include/xinu.h
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS503-Operating Systems/Labs/lab2 TA version/xinu-spring2015/include/process.h
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS503-Operating Systems/Labs/lab2 TA version/xinu-spring2015/system/initialize.c
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS503-Operating Systems/Labs/lab2 TA version/xinu-spring2015/system/ts_init.c
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS503-Operating Systems/Labs/lab2 TA version/xinu-spring2015/system/cpuintensive.c
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS503-Operating Systems/Labs/lab2 TA version/xinu-spring2015/system/iointensive.c
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS503-Operating Systems/Labs/lab2 TA version/xinu-spring2015/system/clkinit.c
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS503-Operating Systems/Labs/lab2 TA version/xinu-spring2015/system/clkhandler.c
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS503-Operating Systems/Labs/lab2 TA version/xinu-spring2015/system/tsqueue.c
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS503-Operating Systems/Labs/lab2 TA version/xinu-spring2015/DESCRIPTION
+/Users/ananda/Documents/projects/TSCreator Makers/evtree_maker/js/views/node_view.js
+/Users/ananda/Documents/projects/TSCreator Makers/evtree_maker/js/views/node_editor_view.js
+/Users/ananda/Documents/projects/TSCreator Makers/evtree_maker/js/views/evtree_app_view.js
+/Users/ananda/Documents/projects/TSCreator Makers/evtree_maker/ejs/node.ejs
+/Users/ananda/Documents/projects/TSCreator Makers/index.php
+/Users/ananda/Documents/projects/TSCreator Makers/transect-maker-built.js
+/Users/ananda/test/gurobi.lic
+/usr/local/bin/grbgetkey
+/usr/local/bin/gurobi_cl
+/usr/local/bin/gurobi.env
+/usr/local/bin/gurobi.sh
+/Users/ananda/gurobi.log
+/Users/ananda/gurobi.lic
+/Users/ananda/Documents/projects/TSCreator Makers/build.py
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS503-Operating Systems/Labs/ideas
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS578-Machine Learning/Homeworks/Homework1/hw1_pack 2/breast-cancer-wisconsin.names
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS578-Machine Learning/Homeworks/Homework1/hw1/training.csv
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS578-Machine Learning/Homeworks/Homework1/hw1/homework.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS578-Machine Learning/Homeworks/Homework1/code/py-decision-tree/decision_tree.py
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS578-Machine Learning/Homeworks/Homework1/code/py-decision-tree/poker-hand-training.data
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS578-Machine Learning/Homeworks/Homework1/hw1/homework.synctex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS578-Machine Learning/Homeworks/Homework1/hw1_pack 2/template.py
+/Users/ananda/.m2/repository/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.pom
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/Canova/pom.xml
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/nd4j/pom.xml
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/deeplearning4j/pom.xml
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Zsika/tscreator_webapp/orientdb-graphed-1.2.0/databases/.gitignore
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Zsika/tscreator_webapp/.git/COMMIT_EDITMSG
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/tscreator_password
+/Users/ananda/.boot2docker/profile
+/Users/ananda/.tmux.conf
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Zsika/tscreator_webapp/routes/tscreator.js
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Zsika/tscreator_webapp/app.js
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Zsika/tscreator_webapp/public/javascripts/map.js
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Zsika/tscreator_webapp/routes/datapack.js
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Zsika/tscreator_webapp/routes/database.js
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Zsika/tscreator_webapp/routes/upload.js
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Zsika/tscreator_webapp/routes/socket.js
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Zsika/tscreator_webapp/routes/settings.js
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Zsika/tscreator_webapp/routes/initialize.js
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Zsika/tscreator_webapp/app_settings/default_datapacks.json
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Zsika/tscreator_webapp/tmpDatapack/NZ_Bio_Lith_Encrypted_Everything3_1Jan12.txt
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Zsika/tscreator_webapp/views/index.ejs
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Zsika/tscreator_webapp/routes/index.js
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Zsika/tscreator_webapp/public/javascripts/chart.js
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Zsika/app.js
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Zsika/tscreator_webapp/views/chartsettings.ejs
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Zsika/tscreator_webapp/views/tsc_chart.ejs
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Zsika/tscreator_webapp/views/layout.ejs
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Zsika/tscreator_webapp/public/javascripts/js/jquery-ui-1.9.0.custom.min.js
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/tsclite_andy/resources/settings/settings_test.tsc
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/tsclite_andy/resources/settings/settings_save.tsc
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/tsclite_andy/resources/settings/save_settings2.tsc
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/tsclite_andy/resources/settings/default.tsc
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/Review/SecondReviewResult.txt
+/Users/ananda/Documents/Workspace/my_github/Truth/connect_truthcoin_container_via_vnc.sh
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/Review/SecondReviewResult
+/Users/ananda/Documents/Workspace/my_github/truthcoin-cpp/Makefile
+/Users/ananda/Documents/Workspace/my_github/truthcoin-cpp/README.md
+/Users/ananda/Documents/Workspace/my_github/truthcoin-cpp/INSTALL
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/bibliography/references.bib
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/bibliography/references-orig.bib
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/sections/DNA.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/sections/Intro.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/sections/Bibliography.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/manuscript-bioproject.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/sections/Abstract.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/sections/Appendices_Acknowledgements.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/sections/Assemblers.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/sections/Conclusion.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/sections/Evaluators.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/sections/Results.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/sections/Methods.tex
+/Users/ananda/Documents/projects/SearchableProductTable/copyToServer.sh
+/Library/WebServer/Documents/SearchableProductTable/js/ProductTable.js
+/Library/WebServer/Documents/SearchableProductTable/src/ProductTable.html
+/Users/ananda/Documents/Workspace/my_github/jsx-plugin-for-eclipse/pom.xml
+/Users/ananda/Documents/Workspace/my_github/jsx-plugin-for-eclipse/net.vvakame.jsx.eclipse.build/pom.xml
+/Users/ananda/Documents/Workspace/my_github/jsx-plugin-for-eclipse/setupAndTest.sh
+/Users/ananda/Documents/Workspace/my_github/jsx-plugin-for-eclipse/jsx-wrapper/pom.xml
+/Users/ananda/Documents/Workspace/my_github/jsx-plugin-for-eclipse/README.md
+/Library/WebServer/Documents/index.html.en
+/private/etc/apache2/httpd.conf
+/etc/apache2/httpd.conf
+/Users/ananda/Documents/projects/React-Tutorial/SearchablePr.txt
+/Users/ananda/Documents/Workspace/my_github/augur-client/Dockerfile
+/Users/ananda/Documents/projects/tscreator/devel/src/datastore/DataColumn.java
+/Users/ananda/Documents/projects/tscreator/devel/src/map/MapFrame.java
+/Users/ananda/Documents/projects/tscreator/devel/src/gui/StringWrappingInfo.java
+/Users/ananda/Documents/projects/tscreator/devel/src/gui/Settings.java
+/Users/ananda/Documents/projects/tscreator/devel/src/gui/RichText.java
+/Library/Caches/Homebrew/tigervnc-1.4.0/CMakeFiles/CMakeError.log
+/Users/ananda/Documents/Workspace/my_github/tigervnc/vncviewer/cocoa.mm
+/usr/local/var/mysql/wirelessprvnat-172-17-111-26.near.illinois.edu.pid
+/Users/ananda/.mysql_history
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Issues/Test files and Explanations for Bug fixing/TSC Evolution Integrated - Functional Specs Draft 29Aug2014/TSC Species - Phenon Integrated Tree140826.xlsx - proposed txt file (new - green) Integration.tsv
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Issues/Test files and Explanations for Bug fixing/TSC Evolution Integrated - Functional Specs Draft 29Aug2014/TSC Species - Phenon Integrated Tree140826.xlsx - proposed txt file (new - green) Integration.txt
+/Users/ananda/Documents/projects/tscreator/devel/src/datastore/RulerColumn.java
+/Users/ananda/Documents/Workspace/my_github/orisi/install.sh
+/Users/ananda/Documents/Workspace/my_github/ethereumj/README.md
+/Users/ananda/Documents/Workspace/my_github/ethereumj/ethereumj-core/README.md
+/Users/ananda/Library/Application Support/Bitcoin/bitcoin.conf
+/Applications/eclipse/Eclipse.app/Contents/MacOS/eclipse.ini
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Zsika/tscreator_webapp/datapacks/KEY4a612e9ae338d68108a379d2f6a3ccabebd0e809.map
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/Zsika/tscreator_webapp_zsika/app.js
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/Wikifier2013/Wikifier2013/data/Models/TitleMatchPlusLexicalNaive/FeatureExtractorLexical.linker.model
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/Wikifier2013/Wikifier2013/configs/STAND_ALONE_GUROBI.xml
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/Wikifier_ACL2011_Package/Data/WordNet/adv.exc
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/Wikifier_ACL2011_Package/Data/WordNet/frames.vrb
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/Wikifier_ACL2011_Package/Data/WordNet/index.adj
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/Wikifier_ACL2011_Package/Data/WordNet/sents.vrb
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/Wikifier_ACL2011_Package/Data/WordNet/verb.exc
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/Wikifier_ACL2011_Package/Data/WordNet/cntlist
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/Wikifier_ACL2011_Package/Data/WordNet/data.verb
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/Wikifier_ACL2011_Package/Data/WordNet/data.noun
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/Wikifier_ACL2011_Package/Data/WordNet/data.adj
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/Wikifier_ACL2011_Package/Data/WordNet/data.adv
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/Wikifier_ACL2011_Package/Data/WordNet/adj.exc
+/Users/ananda/Desktop/chart.html
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/sections/3-DNA/DNA.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/sections/6-Methods/Methods.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/createManuscript.sh
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/sections/10-Bibliography/Bibliography.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/references.bib
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/sections/7-Results/Results.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/references-orig.bib
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/templates/bmcart.cls
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/sections/1-Abstract/Abstract.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/main-bmc.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/bmc_template/bmcart.cls
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/sections/9-Others/Appendices_Acknowledgements.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/sections/8-Conclusion/Conclusion.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/sections/2-Intro/Intro.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/sections/5-Evaluators/Evaluators.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/sections/4-Assemblers/Assemblers.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/bmc_template/bmc_article.tex
+/usr/local/Cellar/phpmyadmin/4.4.4/share/phpmyadmin/index.php
+/Users/ananda/Documents/Workspace/Research/Osaka University/Thesis/Bitcoin/Database/bitcoin.sql
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/sections/9-Appendices_Acknowledgments/Appendices_Acknowledgements.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/sections/9-Appendices_Acknowledgments/Appendices_Acknowledgements
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/sections/9-Acknowledgment_etc/Acknowledgment_etc.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/sections/5-Evaluators/Evaluators
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/data/rhodobacter_staphylococcus_simulation_2
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/data/result_simulation_2.rtf
+/Users/ananda/Documents/Workspace/programming_language/python/bitcoin/mysql.py
+/Users/ananda/Desktop/Result_Genome_Sequencing - Software.csv
+/Users/ananda/Documents/Workspace/PurdueUniversity/RA/TSCreator/TeamViewerLogin/TeamViwerLoginPass
+/Users/ananda/Documents/Workspace/programming_language/python/fast_exponentiation_modulo_m.py
+/Users/ananda/Documents/projects/ML-nlp/DistributedSemantics/Data/Kaggle-Movie-Review/BagOfCentroids.csv
+/Users/ananda/Documents/projects/ML-nlp/DistributedSemantics/Data/Kaggle-Movie-Review/testData.tsv
+/Users/ananda/Documents/Workspace/my_github/python-spidermonkey/spidermonkey/libjs/jsutil.h
+/Users/ananda/Documents/projects/ML-nlp/DistributedSemantics/Data/Kaggle-Movie-Review/unlabeledTrainData.tsv
+/Users/ananda/Documents/Workspace/my_github/tscreator/.gitignore
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS555-Cryptography/Assignments/MySolutions/Assignment 10/Assignment10.tex
+/Users/ananda/Documents/Workspace/my_github/ChromeExt-History/VisualHistory0.5.5_0/protovis-3.2/README
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Project/Data/train.tsv
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/.gitignore
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/word2vecf/questions-words.txt
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/word2vecf/makefile
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/word2vecf/word2phrase.c
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/word2vecf/word2vec.c
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/word2vecf/questions-phrases.txt
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/word2vecf/demo-phrase-accuracy.sh
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/word2vecf/classes.sorted.txt
+/Users/ananda/Documents/Workspace/my_github/.git/MERGE_MSG
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/gurobi
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS555-Cryptography/Assignments/MySolutions/Assignment 9/Assignment9.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS555-Cryptography/Project/crypto-project submission/rawtransaction.cpp
+/Users/ananda/Desktop/enc.py
+/Users/ananda/Documents/Workspace/my_github/sherlockcoin/.git/COMMIT_EDITMSG
+/Users/ananda/Documents/Workspace/my_github/sherlockcoin/configure
+/usr/local/include/boost/thread/pthread/recursive_mutex.hpp
+/Users/ananda/Library/Application Support/sherlockcoin/sherlockcoin.conf
+/Users/ananda/Documents/Workspace/my_github/altcoin_creation_notes.txt
+/Users/ananda/Library/Application Support/sherlockcoin/sherloccoin.conf
+/Users/ananda/Library/Application
+/Users/ananda/Documents/Workspace/my_github/sherlockcoin/.gitignore
+/Users/ananda/Library/Application Support/sherlockcoin/testnet3/blocks/index/CURRENT
+/Users/ananda/Documents/Workspace/my_github/gensim/gensim/models/doc2vec.py
+/Users/ananda/Documents/Life ../Thoughts/Apr12-RelationshipIssues1
+/Users/ananda/Dropbox/TSCreator/Zsika/Oline_Maps/tscreator_webapp_zsika/app.js
+/Users/ananda/Dropbox/TSCreator/Zsika/Oline_Maps/tscreator_webapp_zsika/routes/index.js
+/Users/ananda/Dropbox/TSCreator/Zsika/Oline_Maps/tscreator_webapp_zsika/routes/datapack.js
+/Users/ananda/Dropbox/TSCreator/Zsika/Oline_Maps/tscreator_webapp_zsika/routes/initialize.js
+/Users/ananda/Dropbox/TSCreator/Zsika/Oline_Maps/tscreator_webapp_zsika/node_modules/socket.io/node_modules/socket.io-client/node_modules/active-x-obfuscator/node_modules/zeparser/benchmark.html
+/Users/ananda/Dropbox/TSCreator/Zsika/Oline_Maps/tscreator_webapp_zsika/views/index.ejs
+/Users/ananda/Dropbox/TSCreator/Zsika/Oline_Maps/tscreator_webapp_zsika/public/javascripts/init_default_datapacks.js
+/Users/ananda/Dropbox/TSCreator/Zsika/Oline_Maps/tscreator_webapp_zsika/routes/settings.js
+/Users/ananda/Dropbox/TSCreator/Zsika/Oline_Maps/tscreator_webapp_zsika/routes/tscreator.js
+/Users/ananda/Dropbox/TSCreator/Zsika/Oline_Maps/tscreator_webapp_zsika/app_settings/default_datapacks.json
+/Users/ananda/Dropbox/TSCreator/Zsika/Oline_Maps/tscreator_webapp_zsika/public/javascripts/default_datapacks.js
+/Users/ananda/Dropbox/TSCreator/Zsika/Oline_Maps/tscreator_webapp_zsika/dbserver.sh
+/Users/ananda/Dropbox/TSCreator/Zsika/Oline_Maps/tscreator_webapp_zsika/public/javascripts/jstree/_docs/index.html
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS555-Cryptography/Assignments/MySolutions/Assignment 8/crt.py
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS555-Cryptography/Assignments/MySolutions/Assignment 8/Assignment8.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS555-Cryptography/Assignments/MySolutions/Assignment 6/Assignment6.tex
+/Users/ananda/Library/Application Support/Dogecoin/dogecoin.conf
+/Users/ananda/Library/Application Support/Dogecoin/dogecoin2.conf
+/Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/contrib/debian/examples/bitcoin.conf
+/Users/ananda/Documents/Workspace/my_github/dogecoin/configure
+/Users/ananda/Documents/Workspace/my_github/tscreator/devel/src/gui/TSCreator.java
+/Users/ananda/Documents/Workspace/my_github/tscreator/.git/MERGE_MSG
+/Users/ananda/Documents/Workspace/my_github/tscreator/devel/src/gui/ErrorHandler.java
+/Users/ananda/Documents/Workspace/my_github/tscreator/.git/config
+/Users/ananda/Documents/Workspace/my_git/devel/src/gui/ErrorHandler.java
+/Users/ananda/Documents/Workspace/my_github/tscreator/.git/config
+/Users/ananda/Documents/Workspace/my_github/litecoin/src/timeMeasure.sh
+/Users/ananda/Documents/Workspace/my_github/sherlockcoin/timeMeasure.sh
+/Users/ananda/Documents/Workspace/my_github/bitcoin/configure
+/Users/ananda/Documents/Workspace/my_github/sherlockcoin/autogen.sh
+/Users/ananda/vncviewing.sh
+/Users/ananda/Documents/Workspace/my_github/litecoin/doc/readme-qt.rst
+/Users/ananda/Documents/Workspace/my_github/bitcoin/INSTALL
+/Users/ananda/Documents/Workspace/my_github/litecoin/bitcoin-qt.pro
+/Users/ananda/Documents/Workspace/my_github/dogecoin/doc/build-osx.md
+/Users/ananda/Documents/Workspace/my_github/dogecoin/INSTALL
+/Users/ananda/Documents/Workspace/my_github/litecoin/src/makefile.osx
+/Users/ananda/Documents/Workspace/my_github/bitcoin/doc/multiwallet-qt.md
+/Users/ananda/Documents/Workspace/my_github/bitcoin/doc/build-osx.md
+/Users/ananda/Documents/Workspace/my_github/litecoin-stdc/src/makefile.osx
+/Library/Caches/Homebrew/boost_1_55_0/run.sh
+/Library/Caches/Homebrew/boost_1_57_0/run.sh
+/Users/ananda/Documents/Workspace/my_github/build-litecoin-qt-Desktop_Qt_5_4_1_clang_64bit-Debug/Makefile
+/etc/sudoers
+/Library/Caches/Homebrew/boost_1_57_0/stage/lib/libboost_system.a
+/Library/Caches/Homebrew/boost_1_57_0/boost_installation_from_source.txt
+/usr/local/Library/Formula/boost.rb
+/Users/ananda/Documents/Workspace/my_github/build-litecoin-qt-Desktop_Qt_5_4_1_clang_64bit-Release/Makefile
+/usr/local/Library/Formula/leveldb.rb
+/Users/ananda/Documents/Workspace/my_github/litecoin/litecoin-qt.pro
+/Users/ananda/Dropbox/Zsika/Oline_Maps/tscreator_webapp_zsika/dbserver.sh
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS555-Cryptography/Assignments/MySolutions/Assignment 5/Assignment5.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS555-Cryptography/Assignments/MySolutions/Assignment 7/Assignment7.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS555-Cryptography/Assignments/MySolutions/Assignment 7/QNR.py
+/Users/ananda/Library/Application Support/sherlockholmescoin/sherlockholmescoin.conf
+/Users/ananda/Documents/Workspace/my_github/litecoin/src/main.cpp
+/Users/ananda/.Trash/sherlockholmescoin 9.28.18 PM/sherlockholmescoin.conf
+/Users/ananda/Library/Application Support/SherlockHolmesCoin/sherlockholmescoin.conf
+/Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/makefile.osx
+/Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/.gitignore
+/Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/contrib/debian/examples/sherlockholmescoin.conf
+/Users/ananda/Library/Application Support/Litecoin/testnet3/blocks/index/CURRENT
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS555-Cryptography/Assignments/MySolutions/Assignment 7/Assignment6.tex
+/Users/ananda/Library/Application Support/Litecoin/testnet3/wallet.dat
+/Users/ananda/Documents/Workspace/my_github/litecoin/contrib/debian/examples/bitcoin.conf
+/Users/ananda/Desktop/for_seqanswer_fasta_formatter.pl
+/Users/ananda/Desktop/manuscript.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/manuscript-bioproject-new.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/IEEEtran.cls
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/IEEEtran/bare_jrnl.tex
+/usr/local/src/writer2latex14/Readme.txt
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/manuscript-bioproject.bbl
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/references
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/references.bbl
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/Paper Discussion With Prof.txt
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/Paper Discussion With Prof
+/Users/ananda/Documents/Workspace/Research/Osaka University/Thesis/Bitcoin/Papers & Others/Network Analysidislog.py
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS555-Cryptography/Assignments/MySolutions/Assignment 6/log.py
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS555-Cryptography/Assignments/MySolutions/Assignment 6/pohlig-hellman.py
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS555-Cryptography/Assignments/MySolutions/Assignment 1/Assignment1.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/dl4j-0.0.3.3-examples/src/main/resources/raw_sentences.txt
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/dl4j-0.0.3.3-examples/src/main/resources/unique_words.txt
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/IEEEtran/bare_adv.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/IEEEtran/bare_conf.tex
+/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/IEEEtran/IEEEtran_HOWTO.pdf
+/usr/local/Cellar/qt5/5.4.0/README
+/Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/bitcoin-qt.pro
