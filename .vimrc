@@ -12,14 +12,17 @@ set backspace=2
 set ignorecase
 set hls
 hi CursorLineNr term=bold ctermfg=Yellow gui=bold guifg=Yellow
-set list
-set listchars=tab:>-,trail:-,extends:>,precedes:<,nbsp:%
+"set list
+" set listchars=tab:>-,trail:-,extends:>,precedes:<,nbsp:%
 "------------------------------------------------------------------------------------------
 
 "Cursor configuration
 hi CursorLine   cterm=NONE ctermbg=darkred ctermfg=white guibg=darkred guifg=white
 hi CursorColumn cterm=NONE ctermbg=NONE ctermfg=NONE guibg=NONE guifg=NONE
 nnoremap <Leader>c :set cursorline! cursorcolumn!<CR>
+
+"highlight color
+hi Search cterm=NONE ctermfg=grey ctermbg=blue
 
 "man pages with :Man
 runtime ftplugin/man.vim

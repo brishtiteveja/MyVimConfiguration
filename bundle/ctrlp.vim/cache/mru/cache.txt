@@ -1,8 +1,92 @@
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/views/points.js
 /Users/ananda/.vimrc
-/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Linear Algebra/homework/hw5/orthogonal_factorization_2.py
+/Users/ananda/.bash_profile
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/views/point.js
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/models/point.js
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/models/curve_option.js
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/templates/events/option.ejs
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/views/range.js
+/Users/ananda/Documents/projects/TSCreator Makers/index.php
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/views/curve_export.js
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/templates/events/export_body.text.ejs
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/views/reference_zone.js
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/templates/events/export_body.html.ejs
+/Users/ananda/Documents/projects/TSCreator Makers/transect_maker/ejs/data_export_panel.ejs
+/Users/ananda/Documents/projects/TSCreator Makers/transect_maker/js/views/data_export_view.js
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/templates/ranges/show.ejs
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/templates/events/edit.ejs
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/templates/events/export.ejs
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/templates/events/export_header.text.ejs
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/views/curve_option.js
+/Users/ananda/Documents/projects/TSCreator Makers/curve_maker/templates/curves/export_header.text.ejs
+/Users/ananda/Documents/projects/TSCreator Makers/curve_maker/templates/curves/export.ejs
+/Users/ananda/Documents/projects/TSCreator Makers/curve_maker/templates/curves/export_body.text.ejs
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/templates/curves/export_header.text.ejs
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/templates/curves/export_body.html.ejs
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/templates/curves/export.ejs
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/templates/curves/edit.ejs
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/templates/curves/show.ejs
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/templates/curves/option.ejs
+/private/etc/hosts
+/etc/hosts
 /Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Linear Algebra/homework/hw5/tex/hw5.tex
-/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Linear Algebra/homework/hw5/solve_with_forward_backward_sweep.py
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Linear Algebra/homework/hw6/tex/hw6.tex
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/views/curves.js
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/views/ranges.js
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/models/ranges.js
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/models/range.js
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/models/points.js
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/models/details.js
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/views/details.js
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/views/detail.js
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/views/main_canvas.js
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/column_manager.js
+/Users/ananda/Documents/projects/TSCreator Makers/commons/js/views/column_view.js
+/Users/ananda/Documents/projects/TSCreator Makers/commons/js/collections/base_collection.js
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/views/curve.js
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/views/notifications.js
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/views/event_image.js
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/views/arrow.js
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/utils/color_helpers.js
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/utils/math_helpers.js
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/utils/curve_exporter.js
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/utils/common_exporter.js
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/application.js
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/functions/point.js
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/functions/bootstrap_arrow.html
+/Users/ananda/Documents/projects/TSCreator Makers/commons/js/models/settings.js
+/Users/ananda/Documents/projects/TSCreator Makers/commons/js/models/base_model.js
+/Users/ananda/Documents/projects/TSCreator Makers/commons/js/models/cursor.js
+/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/models/curve.js
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Linear Algebra/homework/hw5/orthogonal_factorization.py
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/4.1CS503-Operating Systems/exams/midterm/xinu-fall2016-lab3/include/sdmc.h
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/4.1CS503-Operating Systems/exams/midterm/xinu-fall2016-lab3/system/start.S
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/4.1CS503-Operating Systems/exams/midterm/xinu-fall2016-lab3/system/meminit.c
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/4.1CS503-Operating Systems/exams/midterm/xinu-fall2016-lab3/system/semdelete.c
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/4.1CS503-Operating Systems/exams/midterm/xinu-fall2016-lab3/system/newqueue.c
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/4.1CS503-Operating Systems/exams/midterm/xinu-fall2016-lab3/system/ready.c
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/4.1CS503-Operating Systems/exams/midterm/xinu-fall2016-lab3/system/getitem.c
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/4.1CS503-Operating Systems/exams/midterm/xinu-fall2016-lab3/include/semaphore.h
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/4.1CS503-Operating Systems/exams/midterm/xinu-fall2016-lab3/system/semcreate.c
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/4.1CS503-Operating Systems/exams/midterm/xinu-fall2016-lab3/system/mkbufpool.c
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/4.1CS503-Operating Systems/exams/midterm/xinu-fall2016-lab3/system/getbuf.c
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/4.1CS503-Operating Systems/exams/midterm/xinu-fall2016-lab3/include/bufpool.h
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/4.1CS503-Operating Systems/exams/midterm/xinu-fall2016-lab3/system/freebuf.c
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/graph2.cpp
+/usr/share/vim/vim73/doc/repeat.txt
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/fibonacci_heap.cpp
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/checkvector.cpp
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/graph.cpp
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/lis2.cpp
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/longest_increasing_subsequence.cpp
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/findelement.cpp
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/heap.cpp
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/btree2.cpp
+/Users/ananda/Documents/Workspace/programming_language/C,C++/test/btree.cpp
 /Users/ananda/Documents/Workspace/programming_language/C,C++/test/kmp_match.cpp
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Linear Algebra/homework/hw5/plane_rotation.py
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Linear Algebra/homework/hw5/orthogonal_factorization_2.py
+/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Linear Algebra/homework/hw5/solve_with_forward_backward_sweep.py
 /Users/ananda/Documents/Workspace/programming_language/C,C++/test/quick_sort.cpp
 /Users/ananda/Documents/Workspace/programming_language/C,C++/test/merge_sort.cpp
 /Users/ananda/Documents/Workspace/Algorithm training/Excercise/dijkstra/Dijkstra.cpp
@@ -12,11 +96,8 @@
 /Users/ananda/Documents/Workspace/programming_language/C,C++/test/friend.cpp
 /Users/ananda/Documents/Workspace/programming_language/C,C++/test/merge_sort
 /Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Linear Algebra/homework/hw5/minimize_error_vec.py
-/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Linear Algebra/homework/hw5/orthogonal_factorization.py
 /Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Linear Algebra/homework/hw5/.gitignore
 /Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Linear Algebra/homework/hw5/cholesky_factorization.py
-/private/etc/hosts
-/etc/hosts
 /Users/ananda/Documents/Workspace/programming_language/C,C++/test/string_match.cpp
 /Users/ananda/Documents/Workspace/programming_language/C,C++/test/tree.cpp
 /Users/ananda/Documents/projects/tscreator/devel/src/util/ProgramInfo.java
@@ -38,7 +119,6 @@
 /Users/ananda/Documents/Workspace/programming_language/C,C++/test/C++_Interview/ch12_q1.cpp
 /Users/ananda/Documents/Workspace/programming_language/C,C++/test/C++_Interview/q2.cpp
 /Users/ananda/Documents/Workspace/programming_language/C,C++/test/C++_Interview/q1.cpp
-/Users/ananda/.bash_profile
 /Users/ananda/.bashrc
 /Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Linear Algebra/homework/hw2/tex/hw2.tex
 /Users/ananda/Documents/Workspace/PurdueUniversity/Courses/10.CS515-Numerical Linear Algebra/homework/hw2/lu_factorization_partial_pivoting.py
@@ -69,13 +149,10 @@
 /Users/ananda/Desktop/acre.obs.txt
 /Users/ananda/Documents/projects/tscreator/devel/src/datastore/SequenceColumn.java
 /Users/ananda/Documents/projects/TSCreator Makers/event_maker/templates/image/show.ejs
-/Users/ananda/Documents/projects/TSCreator Makers/event_maker/templates/curves/option.ejs
 /Users/ananda/Documents/projects/TSCreator Makers/.gitignore
 /Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/views/references_detail.js
-/Users/ananda/Documents/projects/TSCreator Makers/event_maker/javascripts/views/reference_zone.js
 /Users/ananda/Documents/projects/TSCreator Makers/event_maker/read_references_data.rb
 /Users/ananda/Documents/projects/TSCreator Makers/curve_maker/templates/references/show.ejs
-/Users/ananda/Documents/projects/TSCreator Makers/event_maker/templates/curves/export_header.text.ejs
 /Users/ananda/Documents/projects/TSCreator Makers/curve_maker/templates/image/show.ejs
 /Users/ananda/Documents/projects/TSCreator Makers/block-column-maker-built.js
 /Users/ananda/Documents/Workspace/Kaggle/Competitions/1. Expedia Hotel Recommendation/data/destinations.csv
@@ -235,7 +312,6 @@
 /Users/ananda/Documents/projects/TSCreator Makers/evtree_maker/js/views/node_editor_view.js
 /Users/ananda/Documents/projects/TSCreator Makers/evtree_maker/js/views/evtree_app_view.js
 /Users/ananda/Documents/projects/TSCreator Makers/evtree_maker/ejs/node.ejs
-/Users/ananda/Documents/projects/TSCreator Makers/index.php
 /Users/ananda/Documents/projects/TSCreator Makers/transect-maker-built.js
 /Users/ananda/test/gurobi.lic
 /usr/local/bin/grbgetkey
@@ -422,79 +498,3 @@
 /Users/ananda/Dropbox/TSCreator/Zsika/Oline_Maps/tscreator_webapp_zsika/routes/tscreator.js
 /Users/ananda/Dropbox/TSCreator/Zsika/Oline_Maps/tscreator_webapp_zsika/app_settings/default_datapacks.json
 /Users/ananda/Dropbox/TSCreator/Zsika/Oline_Maps/tscreator_webapp_zsika/public/javascripts/default_datapacks.js
-/Users/ananda/Dropbox/TSCreator/Zsika/Oline_Maps/tscreator_webapp_zsika/dbserver.sh
-/Users/ananda/Dropbox/TSCreator/Zsika/Oline_Maps/tscreator_webapp_zsika/public/javascripts/jstree/_docs/index.html
-/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS555-Cryptography/Assignments/MySolutions/Assignment 8/crt.py
-/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS555-Cryptography/Assignments/MySolutions/Assignment 8/Assignment8.tex
-/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS555-Cryptography/Assignments/MySolutions/Assignment 6/Assignment6.tex
-/Users/ananda/Library/Application Support/Dogecoin/dogecoin.conf
-/Users/ananda/Library/Application Support/Dogecoin/dogecoin2.conf
-/Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/contrib/debian/examples/bitcoin.conf
-/Users/ananda/Documents/Workspace/my_github/dogecoin/configure
-/Users/ananda/Documents/Workspace/my_github/tscreator/devel/src/gui/TSCreator.java
-/Users/ananda/Documents/Workspace/my_github/tscreator/.git/MERGE_MSG
-/Users/ananda/Documents/Workspace/my_github/tscreator/devel/src/gui/ErrorHandler.java
-/Users/ananda/Documents/Workspace/my_github/tscreator/.git/config
-/Users/ananda/Documents/Workspace/my_git/devel/src/gui/ErrorHandler.java
-/Users/ananda/Documents/Workspace/my_github/tscreator/.git/config
-/Users/ananda/Documents/Workspace/my_github/litecoin/src/timeMeasure.sh
-/Users/ananda/Documents/Workspace/my_github/sherlockcoin/timeMeasure.sh
-/Users/ananda/Documents/Workspace/my_github/bitcoin/configure
-/Users/ananda/Documents/Workspace/my_github/sherlockcoin/autogen.sh
-/Users/ananda/vncviewing.sh
-/Users/ananda/Documents/Workspace/my_github/litecoin/doc/readme-qt.rst
-/Users/ananda/Documents/Workspace/my_github/bitcoin/INSTALL
-/Users/ananda/Documents/Workspace/my_github/litecoin/bitcoin-qt.pro
-/Users/ananda/Documents/Workspace/my_github/dogecoin/doc/build-osx.md
-/Users/ananda/Documents/Workspace/my_github/dogecoin/INSTALL
-/Users/ananda/Documents/Workspace/my_github/litecoin/src/makefile.osx
-/Users/ananda/Documents/Workspace/my_github/bitcoin/doc/multiwallet-qt.md
-/Users/ananda/Documents/Workspace/my_github/bitcoin/doc/build-osx.md
-/Users/ananda/Documents/Workspace/my_github/litecoin-stdc/src/makefile.osx
-/Library/Caches/Homebrew/boost_1_55_0/run.sh
-/Library/Caches/Homebrew/boost_1_57_0/run.sh
-/Users/ananda/Documents/Workspace/my_github/build-litecoin-qt-Desktop_Qt_5_4_1_clang_64bit-Debug/Makefile
-/etc/sudoers
-/Library/Caches/Homebrew/boost_1_57_0/stage/lib/libboost_system.a
-/Library/Caches/Homebrew/boost_1_57_0/boost_installation_from_source.txt
-/usr/local/Library/Formula/boost.rb
-/Users/ananda/Documents/Workspace/my_github/build-litecoin-qt-Desktop_Qt_5_4_1_clang_64bit-Release/Makefile
-/usr/local/Library/Formula/leveldb.rb
-/Users/ananda/Documents/Workspace/my_github/litecoin/litecoin-qt.pro
-/Users/ananda/Dropbox/Zsika/Oline_Maps/tscreator_webapp_zsika/dbserver.sh
-/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS555-Cryptography/Assignments/MySolutions/Assignment 5/Assignment5.tex
-/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS555-Cryptography/Assignments/MySolutions/Assignment 7/Assignment7.tex
-/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS555-Cryptography/Assignments/MySolutions/Assignment 7/QNR.py
-/Users/ananda/Library/Application Support/sherlockholmescoin/sherlockholmescoin.conf
-/Users/ananda/Documents/Workspace/my_github/litecoin/src/main.cpp
-/Users/ananda/.Trash/sherlockholmescoin 9.28.18 PM/sherlockholmescoin.conf
-/Users/ananda/Library/Application Support/SherlockHolmesCoin/sherlockholmescoin.conf
-/Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/src/makefile.osx
-/Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/.gitignore
-/Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/contrib/debian/examples/sherlockholmescoin.conf
-/Users/ananda/Library/Application Support/Litecoin/testnet3/blocks/index/CURRENT
-/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS555-Cryptography/Assignments/MySolutions/Assignment 7/Assignment6.tex
-/Users/ananda/Library/Application Support/Litecoin/testnet3/wallet.dat
-/Users/ananda/Documents/Workspace/my_github/litecoin/contrib/debian/examples/bitcoin.conf
-/Users/ananda/Desktop/for_seqanswer_fasta_formatter.pl
-/Users/ananda/Desktop/manuscript.tex
-/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/manuscript-bioproject-new.tex
-/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/IEEEtran.cls
-/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/IEEEtran/bare_jrnl.tex
-/usr/local/src/writer2latex14/Readme.txt
-/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/manuscript-bioproject.bbl
-/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/references
-/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/references.bbl
-/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/Paper Discussion With Prof.txt
-/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/Paper Discussion With Prof
-/Users/ananda/Documents/Workspace/Research/Osaka University/Thesis/Bitcoin/Papers & Others/Network Analysidislog.py
-/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS555-Cryptography/Assignments/MySolutions/Assignment 6/log.py
-/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS555-Cryptography/Assignments/MySolutions/Assignment 6/pohlig-hellman.py
-/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/CS555-Cryptography/Assignments/MySolutions/Assignment 1/Assignment1.tex
-/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/dl4j-0.0.3.3-examples/src/main/resources/raw_sentences.txt
-/Users/ananda/Documents/Workspace/PurdueUniversity/Courses/ML-NLP/Softwares/dl4j-0.0.3.3-examples/src/main/resources/unique_words.txt
-/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/IEEEtran/bare_adv.tex
-/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/IEEEtran/bare_conf.tex
-/Users/ananda/Documents/Workspace/PurdueUniversity/Research/BioProject/Manuscript/IEEEtran/IEEEtran_HOWTO.pdf
-/usr/local/Cellar/qt5/5.4.0/README
-/Users/ananda/Documents/Workspace/my_github/sherlockholmescoin/bitcoin-qt.pro
